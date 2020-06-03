@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robofure/static/css/main.db6b6ccc.chunk.css",
+    "main.js": "/Robofure/static/js/main.4889372e.chunk.js",
+    "main.js.map": "/Robofure/static/js/main.4889372e.chunk.js.map",
+    "runtime-main.js": "/Robofure/static/js/runtime-main.47434dbe.js",
+    "runtime-main.js.map": "/Robofure/static/js/runtime-main.47434dbe.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Robofure/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.3a7abaab.chunk.js": "/Robofure/static/js/2.3a7abaab.chunk.js",
+    "static/js/2.3a7abaab.chunk.js.map": "/Robofure/static/js/2.3a7abaab.chunk.js.map",
+    "index.html": "/Robofure/index.html",
+    "precache-manifest.3388edf8bdbca658ba545b92067a4fcd.js": "/Robofure/precache-manifest.3388edf8bdbca658ba545b92067a4fcd.js",
+    "service-worker.js": "/Robofure/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Robofure/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.db6b6ccc.chunk.css.map": "/Robofure/static/css/main.db6b6ccc.chunk.css.map",
+    "static/js/2.3a7abaab.chunk.js.LICENSE.txt": "/Robofure/static/js/2.3a7abaab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47434dbe.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.3a7abaab.chunk.js",
+    "static/css/main.db6b6ccc.chunk.css",
+    "static/js/main.4889372e.chunk.js"
+  ]
+}
